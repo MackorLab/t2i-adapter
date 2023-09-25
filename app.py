@@ -13,8 +13,8 @@ from diffusers import (
     T2IAdapter,
 )
 
-DESCRIPTION = '''# Doodly - T2I-Adapter-SDXL **Sketch**
-To try out all the [6 T2I-Adapter](https://huggingface.co/collections/TencentARC/t2i-adapter-sdxl-64fac9cbf393f30370eeb02f) released for SDXL, [click here](https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL)
+DESCRIPTION = '''# DIAMONIK7777 - T2I - Adapter - SDXL **Sketch**
+Будь в курсе обновлений [ПОДПИСАТЬСЯ](https://vk.com/public221489796)
 '''
 
 if not torch.cuda.is_available():
