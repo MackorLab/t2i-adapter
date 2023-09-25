@@ -259,6 +259,4 @@ with gr.Blocks(css="style.css") as demo:
         outputs=result,
         api_name=False,
     )
-
-if __name__ == "__main__":
-    demo.queue(max_size=20).launch(debug=True, max_threads=True, share=True, inbrowser=True)
+demo.queue(max_size=20).launch(debug=True, max_threads=True, share=True, inbrowser=True)
